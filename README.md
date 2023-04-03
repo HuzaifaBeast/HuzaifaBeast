@@ -1,4 +1,4 @@
-<img align="center" width="1500px" height="200px" src="https://blog.apnic.net/wp-content/uploads/2019/12/Code_Banner-555x202.png?v=9c8e324d695a626329cdaa82ec6b887c" alt="">
+<img align="center" width="1500px" height="200px" src="https://imageup.me/uag" alt="">
 
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="left">A passionate frontend developer from Pakistan</h3>
