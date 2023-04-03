@@ -1,4 +1,4 @@
-<img align="center" width="1500px" height="200px" src="https://imageup.me/uag" alt="">
+<img align="center" width="1500px" height="200px" src="https://imageup.me/images/be9aaa17-e496-457b-a7bd-881b9afa2a49.png" alt="">
 
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="left">A passionate frontend developer from Pakistan</h3>
