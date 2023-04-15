@@ -40,6 +40,9 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=huzaifabeast&show_icons=true&locale=en" alt="huzaifabeast" /></p>
+<div class="center" align="center">
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=huzaifabeast&show_icons=true&locale=en" alt="huzaifabeast" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifabeast&" alt="huzaifabeast" /></p>
+
+</div>
