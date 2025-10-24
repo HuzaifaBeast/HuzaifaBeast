@@ -1,4 +1,4 @@
-<img align="center" width="1500px" src="https://www.canva.com/design/DAG1dlMsvEE/p5BjAzKSNm1CXnJjH8N9gw/view?utm_content=DAG1dlMsvEE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h64c55c5b67" alt="Muhammad Huzaifa Banner">
+<img align="center" width="1500px" src="./banner.png" alt="Muhammad Huzaifa Banner">
 
 <h1 align="center">👋 Hi, I'm Muhammad Huzaifa</h1>
 <h3 align="center">🚀 Frontend Developer | 3D Game Developer | Creative Technologist from Pakistan</h3>
